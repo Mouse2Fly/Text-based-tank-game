@@ -1,0 +1,16 @@
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\bin\Debug\net8.0-windows\Tankai GUI.exe
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\bin\Debug\net8.0-windows\Tankai GUI.deps.json
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\bin\Debug\net8.0-windows\Tankai GUI.runtimeconfig.json
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\bin\Debug\net8.0-windows\Tankai GUI.dll
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\bin\Debug\net8.0-windows\Tankai GUI.pdb
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai_GUI.Form1.resources
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.csproj.GenerateResource.cache
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.GeneratedMSBuildEditorConfig.editorconfig
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.AssemblyInfoInputs.cache
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.AssemblyInfo.cs
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.csproj.CoreCompileInputs.cache
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.dll
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\refint\Tankai GUI.dll
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.pdb
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\Tankai GUI.genruntimeconfig.cache
+I:\C# CODE SAVED HERE\Tankai GUI\Tankai GUI\obj\Debug\net8.0-windows\ref\Tankai GUI.dll
